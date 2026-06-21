@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Mohammed%20Yousuf&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Agentic%20AI%20%26%20RAG%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<h1>Mohammed Yousuf</h1>
+<p><b>Java Developer</b> &nbsp;·&nbsp; <b>Agentic AI &amp; RAG Builder</b></p>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Building+production-grade+Spring+Boot+systems;Designing+Agentic+AI+%26+RAG+pipelines;LangGraph+%C2%B7+LangChain+%C2%B7+Generative+AI;Currently+exploring%3A+multi-agent+orchestration" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Building+production-grade+Spring+Boot+systems;Designing+Agentic+AI+%26+RAG+pipelines;LangGraph+%C2%B7+LangChain+%C2%B7+Generative+AI;Currently+exploring%3A+multi-agent+orchestration" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -36,7 +37,7 @@ I like systems that *decide* before they act — adaptive routing, self-correcti
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yusufansari2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yusufansari2001&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
